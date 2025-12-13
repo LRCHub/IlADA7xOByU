@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "君がくれた夏",
+  "base_artist": "家入レオ",
+  "createdAt": "2025-12-13T15:43:05.310559Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君がくれた夏",
+      "artist": "Leo Ieiri",
+      "has_synced": true,
+      "path": "select/01_君がくれた夏_Leo_Ieiri.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君がくれた夏",
+      "artist": "家入レオ",
+      "has_synced": true,
+      "path": "select/02_君がくれた夏_家入レオ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君がくれた夏",
+      "artist": "Ieiri, Leo",
+      "has_synced": true,
+      "path": "select/03_君がくれた夏_Ieiri,_Leo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君がくれた夏 - Kimiga Kureta Natsu",
+      "artist": "Leo Ieiri",
+      "has_synced": true,
+      "path": "select/04_君がくれた夏_-_Kimiga_Kureta_Natsu_Leo_Ieiri.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君がくれた夏",
+      "artist": "奥華子",
+      "has_synced": true,
+      "path": "select/05_君がくれた夏_奥華子.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kimi ga Kureta Natsu (君がくれた夏)",
+      "artist": "Leo Ieiri （家入レオ）",
+      "has_synced": true,
+      "path": "select/06_Kimi_ga_Kureta_Natsu_(君がくれた夏)_Leo_Ieiri_(家入レオ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君がくれた夏",
+      "artist": "家入レオ",
+      "has_synced": false,
+      "path": "select/pl_01_君がくれた夏_家入レオ.txt"
+    }
+  ]
+}
